@@ -19,3 +19,5 @@ The idea of using random partitioning is that anomalies will require less partit
 ### Local Outlier Factor
 
 In conjunction with Isolation Forest, we are going to be using the local outlier factor algorithm which finds anomalous data by measuring the deviation of a given data point with respect to its neighbors. 
+
+![alt text](http://url/to/img.png)
